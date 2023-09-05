@@ -1,6 +1,7 @@
 /* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   }
   
   /* Remove margins and padding from the list */
@@ -71,7 +72,6 @@
   
   /* Style the header */
   .header {
-    background-color: #f44336;
     padding: 30px 40px;
     color: white;
     text-align: center;
